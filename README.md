@@ -1,6 +1,8 @@
 Progress Wheel
 =============
 
+数据加载样式
+
 This is a custom component for Android intended for use instead of a progress bar.
 
 ![Sample Image](https://github.com/Todd-Davies/ProgressWheel/raw/master/sample_image.png "An example implementation")
